@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Livrago" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Livragofinal" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Your other theme customizations here -->
+    </style>
+
+    <style name="MyTheme" parent="Theme.MaterialComponents.Light">
+    </style>
+    <!-- Your custom theme customizations here -->
+</resources>

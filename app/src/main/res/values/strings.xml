@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Livrago</string>
+    <string name="client_id">234307970564-f0p89nu8b8mk4radp2ofackqb7lnac3u.apps.googleusercontent.com</string>
+
+<!--    <string name="app_name">livragofinal</string>-->
+    <string name="app_logo">Logo de Livrago</string>
+
+    <string name="login_welcome_message">Hello, Connectez-vous</string>
+    <string name="phone_number_hint">Téléphone</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login_button_text">Connexion</string>
+    <string name="signup_prompt">Ou alors, Inscrivez-vous</string>
+
+    <string name="register_welcome_message">Hello, Inscrivez-vous</string>
+    <string name="full_name_hint">Nom complet</string>
+    <string name="birthdate_hint">Date de naissance</string>
+    <string name="register_button_text">Inscription</string>
+    <string name="login_prompt">Ou alors, Connectez-vous</string>
+
+    <string name="error_invalid_phone">Numéro de téléphone invalide</string>
+    <string name="error_invalid_password">Mot de passe invalide</string>
+    <string name="error_field_required">Ce champ est obligatoire</string>
+    <string name="error_password_match">Les mots de passe ne correspondent pas</string>
+    <string name="error_user_exists">Un utilisateur avec ce numéro de téléphone existe déjà</string>
+    <string name="error_registration_failed">L\'inscription a échoué. Veuillez réessayer.</string>
+    <string name="error_login_failed">La connexion a échoué. Vérifiez vos informations d\'identification.</string>
+
+    <string name="success_registration">Inscription réussie !</string>
+    <string name="success_login">Connexion réussie !</string>
+
+    <string name="welcome_message">Bienvenue</string> ride_type_question
+    <string name="ride_type_question">Quel type de course souhaiter vous commander ?</string>
+    <string name="help_text">Besoin d\'aide ?</string>
+
+    <string name="course_moto_taxi">Course Moto-taxi</string>
+    <string name="course_livraison">Course Livraison</string>
+    <string name="fill_ride_info">Veuillez renseigner les informations de votre course :</string>
+    <string name="pickup_address">Adresse de prise en charge</string>
+    <string name="destination_address">Adresse de destination</string>
+    <string name="parcelpickup_address">Adresse de récupération du colis</string>
+    <string name="sender_phone_hint">Téléphone de l\'expéditeur</string>
+    <string name="receiver_phone_hint">Téléphone du destinataire</string>
+    <string name="amount_hint">Montant à récupérer (FCFA)</string>
+    <string name="order_button">Commander</string>
+    <string name="details_hint">Détails supplémentaires (facultatif)</string>
+    <string name="numero_passager">Numéro du passager</string>
+
+    <string name="button1_text">Course Moto-taxi</string>
+    <string name="button2_text">Course Livraison</string>
+
+
+    <string-array name="douala_neighborhoods">
+        <item>Akwa</item>
+        <item>Bali</item>
+        <item>Bonamoussadi</item>
+        <item>Bonapriso</item>
+        <item>Deido</item>
+        <item>Logbaba</item>
+        <item>Makepe</item>
+        <item>New Bell</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "234307970564",
+    "project_id": "livrago-ad0bd",
+    "storage_bucket": "livrago-ad0bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234307970564:android:954b4d7d43b1795f653751",
+        "android_client_info": {
+          "package_name": "com.application.livrago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234307970564-bdtv6ueb78cvnvnc62e50f3en2ecj78o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.livrago",
+            "certificate_hash": "144babbbd53009744d2827c78ed905ef1108dfd2"
+          }
+        },
+        {
+          "client_id": "234307970564-f0p89nu8b8mk4radp2ofackqb7lnac3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ7uThuQjn71MIhej1p_FnyDvuCEVem4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234307970564-f0p89nu8b8mk4radp2ofackqb7lnac3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
